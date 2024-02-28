@@ -1,0 +1,589 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 155.8rem;
+}.section-Z99 {
+  box-sizing: border-box;
+  padding-right: 4.3rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(180deg, #a4b0f1 18.5%, rgba(179, 164, 241, 0.7900000215) 71.5%);
+}
+.section-Z99 .auto-group-fgak-5tB {
+  box-sizing: border-box;
+  padding: 10rem 12.4rem 30rem 12.8rem;
+  width: 71.5rem;
+  height: 102.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.section-Z99 .auto-group-fgak-5tB .about-me-oJP {
+  margin: 0rem 9.4rem 9.2rem 5.5rem;
+  width: calc(100% - 14.9rem);
+  height: 7.6rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.section-Z99 .auto-group-fgak-5tB .imgpng-ScF {
+  width: 100%;
+  flex-shrink: 0;
+}
+.section-Z99 .auto-group-fgak-5tB .imgpng-ScF .rectangle-2-cFq {
+  width: 46.3rem;
+  height: 45.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.section-Z99 .divmain-Kvw {
+  box-sizing: border-box;
+  padding-bottom: 4.8rem;
+  width: 80rem;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0.5rem 0.7rem 1.5rem rgba(185, 185, 185, 0.6159999967);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.section-Z99 .divmain-Kvw .divtop-section-F3u {
+  box-sizing: border-box;
+  padding: 3.1rem 20.79rem 3.7rem 20.81rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #b0e0e6;
+  flex-shrink: 0;
+}
+.section-Z99 .divmain-Kvw .divtop-section-F3u .sophia-angela-i-olbes-xyu {
+  margin: 0rem 0rem 1.1rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6406rem;
+  font-weight: 100;
+  line-height: 1.2125;
+  color: #00008b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.section-Z99 .divmain-Kvw .divtop-section-F3u .bachelor-of-science-in-information-technology-TQs {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.7344rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #00008b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j {
+  margin-right: 0.7rem;
+  height: 83rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .auto-group-vpgp-VMZ {
+  margin: 3.85rem 2.4rem 4.9rem 0rem;
+  height: calc(100% - 8.75rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .auto-group-vpgp-VMZ .personl-info-BkB {
+  margin-bottom: 1.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .auto-group-vpgp-VMZ .age-21-hTd {
+  margin-bottom: 1.65rem;
+  display: flex;
+  font-size: 1.4625rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .auto-group-vpgp-VMZ .bithday-june-12002-bZ1 {
+  margin-bottom: 1.7rem;
+  display: flex;
+  font-size: 1.375rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .auto-group-vpgp-VMZ .birthplace-lucena-city-WAB {
+  margin-bottom: 1.75rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .auto-group-vpgp-VMZ .phone-09096623567-28X {
+  margin-bottom: 1.8rem;
+  display: flex;
+  font-size: 1.3125rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .auto-group-vpgp-VMZ .address-purok-san-roque-brgy-4-lc-KtK {
+  margin-bottom: 1.7rem;
+  max-width: 21.6rem;
+  display: flex;
+  font-size: 1.3875rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .auto-group-vpgp-VMZ .email-olbesophiagmailcom-q5y {
+  margin-bottom: 4.2rem;
+  display: flex;
+  font-size: 1.4125rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .auto-group-vpgp-VMZ .skills-xAb {
+  margin-bottom: 2.4rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .auto-group-vpgp-VMZ .list-item-responsibility-HyZ {
+  margin: 0rem 0rem 1.05rem 2.5rem;
+  display: flex;
+  font-size: 1.4125rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .auto-group-vpgp-VMZ .list-item-good-communication-Q2b {
+  margin: 0rem 0rem 1.1rem 2.5rem;
+  display: flex;
+  font-size: 1.3875rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .auto-group-vpgp-VMZ .list-item-studying-uk3 {
+  margin: 0rem 0rem 1.05rem 2.5rem;
+  display: flex;
+  font-size: 1.375rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .auto-group-vpgp-VMZ .list-item-artist-SV5 {
+  margin: 0rem 0rem 1.05rem 2.5rem;
+  display: flex;
+  font-size: 1.425rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .auto-group-vpgp-VMZ .list-item-cleaning-xTR {
+  margin: 0rem 0rem 4.25rem 2.5rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .auto-group-vpgp-VMZ .hobbies-sqH {
+  margin-bottom: 2.05rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .auto-group-vpgp-VMZ .list-item-watching-series-of-manga-cH5 {
+  margin: 0rem 0rem 5.45rem 4rem;
+  max-width: 16.5rem;
+  display: flex;
+  font-size: 1.35rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .auto-group-vpgp-VMZ .language-gXq {
+  margin-bottom: 1.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .auto-group-vpgp-VMZ .english-1KD {
+  margin-bottom: 1.55rem;
+  display: flex;
+  font-size: 1.45rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .auto-group-vpgp-VMZ .fiipino-LMV {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .divline-Gkw {
+  margin-top: 3rem;
+  width: 1.7rem;
+  height: 80rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .divcol-div-8-oVy {
+  margin-bottom: 0.5rem;
+  width: 49.6rem;
+  height: 82.5rem;
+  position: relative;
+  background-color: #f0f8ff;
+  flex-shrink: 0;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .divcol-div-8-oVy .summary-8YF {
+  width: 8.5rem;
+  height: 2rem;
+  position: absolute;
+  left: 2rem;
+  top: 3.85rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #00008b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .divcol-div-8-oVy .pp-4-2dd {
+  box-sizing: border-box;
+  padding: 0.05rem 0.3rem;
+  width: 45.6rem;
+  height: 9.3rem;
+  position: absolute;
+  left: 2rem;
+  top: 7.5rem;
+  border: solid 0.3rem #000000;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .divcol-div-8-oVy .pp-4-2dd .the-arts-have-influenced-my-life-in-amazing-ways-art-defines-all-that-we-are-and-all-that-we-could-become-i-would-say-that-our-skills-as-artists-have-improved-since-the-first-paintings-as-ive-grown-older-art-has-become-so-much-more-than-that-student-life-is-meant-to-help-us-learn-discipline-and-study-despite-that-life-is-quite-enjoyable-the-struggle-is-low-in-student-life-kZd {
+  max-width: 43.9rem;
+  display: flex;
+  font-size: 1.2141rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .divcol-div-8-oVy .separator-PuR {
+  width: 45.6rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 2rem;
+  top: 17.8rem;
+  overflow: hidden;
+  border: solid 0.1rem #9a9a9a;
+  box-sizing: border-box;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .divcol-div-8-oVy .experience-Wj9 {
+  width: 9.9rem;
+  height: 2rem;
+  position: absolute;
+  left: 2rem;
+  top: 22.45rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #00008b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .divcol-div-8-oVy .studying-in-my-life-R5R {
+  width: 12.4rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 2rem;
+  top: 26.35rem;
+  display: flex;
+  font-size: 1.425rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #5c5454;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .divcol-div-8-oVy .pp-4-Juu {
+  box-sizing: border-box;
+  padding: 0.45rem 0.3rem 0.55rem 0.3rem;
+  width: 45.6rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 2rem;
+  top: 29.8rem;
+  border: solid 0.3rem #000000;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .divcol-div-8-oVy .pp-4-Juu .in-life-we-find-meaning-through-a-sense-of-purpose-which-makes-life-worthwhile-the-period-of-student-life-brings-joy-and-happiness-to-our-lives-and-builds-a-strong-foundation-it-also-determines-our-successful-life-cvb {
+  max-width: 44.5rem;
+  display: flex;
+  font-size: 1.1922rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .divcol-div-8-oVy .drawing-painting-TAX {
+  width: 12.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 2rem;
+  top: 36.75rem;
+  display: flex;
+  font-size: 1.4125rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #5c5454;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .divcol-div-8-oVy .pp-4-kvK {
+  box-sizing: border-box;
+  padding: 0 0.3rem;
+  width: 45.6rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2rem;
+  top: 39.95rem;
+  border: solid 0.3rem #000000;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .divcol-div-8-oVy .pp-4-kvK .art-helps-us-to-express-what-we-feel-it-can-enlight-us-and-lift-our-spirits-to-motivate-ourselves-in-daily-life-it-affects-us-because-it-has-a-big-impact-that-affects-our-mood-and-emotions-tmd {
+  max-width: 41.7rem;
+  display: flex;
+  font-size: 1.1922rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .divcol-div-8-oVy .separator-wju {
+  width: 45.6rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 2rem;
+  top: 47rem;
+  overflow: hidden;
+  border: solid 0.1rem #9a9a9a;
+  box-sizing: border-box;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .divcol-div-8-oVy .education-5LK {
+  width: 9.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 2rem;
+  top: 51.65rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #00008b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .divcol-div-8-oVy .item-2008-2014-bJf {
+  width: 9.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 2rem;
+  top: 55.7rem;
+  display: flex;
+  font-size: 1.6094rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .divcol-div-8-oVy .pp-4-Vew {
+  box-sizing: border-box;
+  padding: 0.3rem 0.3rem 0.4rem 0.3rem;
+  width: 45.6rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 2rem;
+  top: 59.9rem;
+  display: flex;
+  font-size: 1.2031rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.3rem #000000;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .divcol-div-8-oVy .item-2014-2018-Z91 {
+  width: 9.7rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 2rem;
+  top: 64.15rem;
+  display: flex;
+  font-size: 1.6563rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .divcol-div-8-oVy .pp-4-4Lf {
+  box-sizing: border-box;
+  padding: 0.3rem 0.3rem 0.4rem 0.3rem;
+  width: 45.6rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 2rem;
+  top: 68.4rem;
+  display: flex;
+  font-size: 1.225rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.3rem #000000;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .divcol-div-8-oVy .item-2018-2020-KGb {
+  width: 9.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 2rem;
+  top: 72.7rem;
+  display: flex;
+  font-size: 1.625rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.section-Z99 .divmain-Kvw .auto-group-diqd-x6j .divcol-div-8-oVy .pp-4-cmV {
+  box-sizing: border-box;
+  padding: 0.3rem 0.3rem 0.4rem 0.3rem;
+  width: 45.6rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 2rem;
+  top: 76.9rem;
+  display: flex;
+  font-size: 1.225rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.3rem #000000;
+}

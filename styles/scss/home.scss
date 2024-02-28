@@ -1,0 +1,59 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 14.2rem;
+}.home-WSj {
+  padding: 2rem;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  width: 100%;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+
+  .property-1default-FfD {
+    white-space: nowrap;
+    flex-shrink: 0;
+    padding: 0 0.6rem;
+    height: 5.7rem;
+    font-size: 3rem;
+    color: #000000;
+    line-height: 1.5;
+    margin-bottom: 2rem;
+    width: 100%;
+    cursor: pointer;
+    font-family: Poppins, 'Source Sans Pro';
+    box-sizing: border-box;
+    text-align: center;
+    font-weight: 500;
+  }
+  .property-1variant2-Lgf {
+    padding: 0 0.6rem;
+    font-family: Poppins, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    height: 5.7rem;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #0056ff;
+    width: 100%;
+  }
+}

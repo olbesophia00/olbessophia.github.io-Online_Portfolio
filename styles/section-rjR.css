@@ -1,0 +1,142 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 155.8rem;
+}.section-XyZ {
+  box-sizing: border-box;
+  padding: 0rem 16rem 0rem 9rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/section-bg.png');
+}
+.section-XyZ .auto-group-3fno-4ib {
+  margin: 4.8rem 10.8rem 0rem 0rem;
+  width: 63.1rem;
+  flex-shrink: 0;
+}
+.section-XyZ .auto-group-3fno-4ib .divleftcontainer-C47 {
+  margin-bottom: 9.55rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.section-XyZ .auto-group-3fno-4ib .divleftcontainer-C47 .hi-i-am-sophia-angela-i-olbes-8TZ {
+  margin: 0rem 0rem 8.25rem 0.7rem;
+  display: flex;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Sansita One, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.section-XyZ .auto-group-3fno-4ib .divleftcontainer-C47 .hi-i-am-sophia-angela-i-olbes-8TZ .hi-i-am-sophia-angela-i-olbes-8TZ-sub-0 {
+}
+.section-XyZ .auto-group-3fno-4ib .divleftcontainer-C47 .hi-i-am-sophia-angela-i-olbes-8TZ .hi-i-am-sophia-angela-i-olbes-8TZ-sub-1 {
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a4def1;
+  font-family: Sansita One, 'Source Sans Pro';
+}
+.section-XyZ .auto-group-3fno-4ib .divleftcontainer-C47 .a-student-with-hearing-impairment-Lxw {
+  margin: 0rem 0rem 6.5rem 0.7rem;
+  display: flex;
+  font-size: 3.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Sansita One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.section-XyZ .auto-group-3fno-4ib .divleftcontainer-C47 .i-am-currently-in-my-third-year-of-taking-bachelor-of-science-in-information-technology-at-dalubhasaan-ng-lungsod-ng-lucena-rAb {
+  max-width: 63.1rem;
+  display: flex;
+  font-size: 3.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.section-XyZ .auto-group-3fno-4ib .divbuttons-vw9 {
+  margin: 0rem 17.972rem 0rem 1.7rem;
+  width: calc(100% - 19.672rem);
+  height: 5.9rem;
+  display: flex;
+  align-items: center;
+}
+.section-XyZ .auto-group-3fno-4ib .divbuttons-vw9 .link-button-Seb {
+  margin-right: 3.428rem;
+  width: 20rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.285;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Ultra, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.3rem #ff0089;
+  box-sizing: border-box;
+  background-color: rgba(0, 132, 255, 0.4600000083);
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.section-XyZ .auto-group-3fno-4ib .divbuttons-vw9 .button-UbH {
+  box-sizing: border-box;
+  padding: 1rem 5.383rem 1rem 5.417rem;
+  width: 20rem;
+  height: 100%;
+  border: solid 0.3rem #ff0089;
+  background-color: rgba(0, 132, 255, 0.4600000083);
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.section-XyZ .auto-group-3fno-4ib .divbuttons-vw9 .button-UbH .contact-me-odZ {
+  max-width: 9.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.285;
+  color: #000000;
+  font-family: Ultra, 'Source Sans Pro';
+}
+.section-XyZ .imgpng-tf1 {
+  width: 56.9rem;
+  height: 102.4rem;
+  border: solid 1rem rgba(0, 132, 255, 0.4600000083);
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/imgpng-bg.png');
+  flex-shrink: 0;
+}
